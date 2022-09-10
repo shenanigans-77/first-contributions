@@ -267,7 +267,6 @@
 - [Dylan Manfredi](https://github.com/dmanfredi)]
 - [Deepak Putta](https://github.com/deepak-putta)
 - [ASNaq35]
-- [BrianWhelanDub](https://github.com/BrianWhelanDublin)
 - [Kyle Rooney]
 - [Farel](https://github.com/farellukas)
 - [Shivankur Singh](https://github.com/Shivankur25)
